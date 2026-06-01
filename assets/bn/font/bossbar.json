@@ -1,0 +1,17 @@
+{
+  "providers": [
+    {
+      "type": "space",
+      "advances": {
+        " ": 4
+      }
+    },
+    {
+      "type": "bitmap",
+      "file": "bn:font/bossbar/bossbar.png",
+      "chars": ["0"],
+      "ascent": 7,
+      "height": 31
+    }
+  ]
+}
